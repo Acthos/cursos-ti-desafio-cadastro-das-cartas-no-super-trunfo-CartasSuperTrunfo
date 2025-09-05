@@ -36,6 +36,7 @@
         // Aqui nesta linha acabamos o cadastro da primeira carta.
 
 
+    
         
         //Cadastrando a segunda carta
         char estado2;
